@@ -1,2 +1,2 @@
 ### C++ exam:
-in here you can find the C++ exam I had to take. This is an example of my provincency with C++. I am aware of certain aspects of my code not being up to proffesional standard
+in here you can find the C++ exam I had to take. This is an example of my provincency with C++. I am aware of certain aspects of my code not being up to proffesional standard and that there is no comments in the code explaining what each method does but this is mainly due to the time limit we had for the exam. If I had more time I would certainly improve my code and add comments to it so that it's more efficient and readable.
