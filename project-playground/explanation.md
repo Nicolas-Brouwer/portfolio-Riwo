@@ -1,1 +1,2 @@
-
+### project playrground:
+In project playground with a team we had to make a simple mobile game in android studio. Our team decided for a top down shooter type game. The enemy grunt class is one of the things I worked on. The grunt is a simple enemy that moves towards the player to deal damage. For this I had to write some code that makes sure that the grunt is able to track and follow the enemy around the map.
